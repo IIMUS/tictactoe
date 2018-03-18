@@ -1,15 +1,14 @@
-'''
-master.py
-Emrick St-Pierre
-21/11/2017
-'''
+"""
+IIMUS - Projet-pilote
 
-#C'est ici que le jeu de tic tac toe doit etre code
+Date:
+    18 mars 2018
 
-print("Hello World!")
+Auteur:
+    Emrick St-Pierre
+"""
 
-'''
-Note: les commentaires ne doivent pas contenir de
-caracteres en dehors du code ASCII standard, donc
-pas d'accents
-'''
+from controller import Controller
+
+c = Controller()
+c.start()
