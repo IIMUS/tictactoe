@@ -1,0 +1,84 @@
+MENU:
+(1) Jouer contre joueur
+(2) Préférences
+(3) Quitter
+2
+PRÉFÉRENCES:
+(1) Personnaliser l’affichage
+(2) Retour
+1
+PERSONNALISER AFFICHAGE:
+(1) Caractère premier joueur: X
+(2) Couleur: Noir
+(3) Caractère deuxième joueur: 0
+(4) Couleur: Bleu
+(5) Caractère grille: * 
+(6) Couleur: Noir
+(7) Retour
+2
+Instructions:
+Entrez la couleur que vous voulez assigner parmi les couleurs suivantes: Rouge, Bleu, Noir, Magenta, Violet, Orange
+‘vioLEt’
+PERSONNALISER AFFICHAGE:
+(1) Caractère premier joueur: ‘X’
+(2) Couleur: Violet
+(3) Caractère deuxième joueur: ‘0’
+(4) Couleur: Bleu
+(5) Caractère grille: ‘* ‘
+(6) Couleur: Noir
+(7) Retour
+7
+PRÉFÉRENCES:
+(1) Personnaliser l’affichage
+(2) Retour
+(3) Quitter
+2
+MENU:
+(1) Jouer contre joueur
+(2) Préférences
+1
+     1       2       3
+
+         *       *
+1        *       *     
+         *       *
+   * * * * * * * * * * * 
+         *       *
+2        *       *     
+         *       *
+   * * * * * * * * * * * 
+         *       *
+3        *       *     
+         *       *
+Tour: X
+Instructions:
+Entrez la ligne et la colonne correspondant à l’endroit auquel vous voulez jouer. Entrez ‘a’ pour abandonner ou ‘q’ pour quitter.
+12
+     1       2       3
+
+         *       *
+1        *   X   *     
+         *       *
+   * * * * * * * * * * * 
+         *       *
+2        *       *     
+         *       *
+   * * * * * * * * * * * 
+         *       *
+3        *       *     
+         *       *
+Tour: O
+Instructions:
+Entrez la ligne et la colonne correspondant à l’endroit auquel vous voulez jouer.
+a
+Victoire de X
+Voulez-vous rejouer?
+ Oui
+(2) Non
+2
+MENU:
+(1) Jouer contre joueur
+(2) Préférences
+(3) Quitter
+3
+Au revoir!
