@@ -11,4 +11,4 @@ Auteur:
 from controller import Controller
 
 c = Controller()
-c.start()
+c.listen()

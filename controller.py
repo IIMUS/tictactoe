@@ -16,11 +16,11 @@ class Controller:
         self.modele = Model()
         self.afficheur = Viewer()
 
-    def start(self):
+    def listen(self):
         """
         On appelle cette methode lorsque l'application est prete a gerer les interactions de l'utilisateur.
         """
-        print("Controller::start")
+        print("Controller::listen")
         self.afficheur.afficher_menu_principal()
 
     def jouer(self):
