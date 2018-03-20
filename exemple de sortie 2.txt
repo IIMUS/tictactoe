@@ -1,0 +1,35 @@
+     a       b       c
+
+         *       *
+1    O   *   X   *     
+         *       *
+   * * * * * * * * * * * 
+         *       *
+2        *   X   *   O 
+         *       *
+   * * * * * * * * * * * 
+         *       *
+3        *       *     
+         *       *
+Tour: X
+Instructions:
+Entrez la ligne et la colonne correspondant à l’endroit auquel vous voulez jouer. Entrez ‘a’ pour abandonner ou ‘q’ pour quitter.
+b3
+
+     a       b       c
+
+         *   *   *
+1    O   *   X   *     
+         *   *   *
+   * * * * * * * * * * * 
+         *   *   *
+2        *   X   *   O 
+         *   *   *
+   * * * * * * * * * * * 
+         *   *   *
+3        *   X   *     
+         *   *   *
+Victoire de X
+Voulez-vous rejouer?
+(1) Oui
+(2) Non

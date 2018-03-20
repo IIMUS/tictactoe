@@ -37,7 +37,7 @@ MENU:
 (1) Jouer contre joueur
 (2) Préférences
 1
-     1       2       3
+     a       b       c
 
          *       *
 1        *       *     
@@ -54,7 +54,7 @@ Tour: X
 Instructions:
 Entrez la ligne et la colonne correspondant à l’endroit auquel vous voulez jouer. Entrez ‘a’ pour abandonner ou ‘q’ pour quitter.
 12
-     1       2       3
+     a       b       c
 
          *       *
 1        *   X   *     
